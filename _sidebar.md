@@ -1,6 +1,6 @@
 * Menu Option 1
   * [Quick start](README.md)
-  * [Classes](Entity_Classesquickstart.md)
+  * [Classes](Entity-Classes.md)
 * Menu Option 2
   * Submenu Option A
   * Submenu Option B
