@@ -1,4 +1,4 @@
-![enter image description here](http://beta.baxelsystems.com/img/logo/BAXEL-logo-dark.png)
+![enter image description here](http://beta.baxelsystems.com/img/logo/BAXEL-logo-dark.png =200x)
 * **Quick start**
 * **Baxel Concepts**
   * [Application Scopes](README.md)
@@ -13,7 +13,7 @@
   * Pinned Filters
 * **Menu Option 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2Nz
-IxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkx
-NzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OT
+UzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5Nzkw
+NzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
 -->
