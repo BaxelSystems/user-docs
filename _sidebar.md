@@ -1,4 +1,4 @@
-* Quick 
+* Quickstart
 * Baxel Concepts
   * [Quick start](README.md)
   * [Classes](Entity-Classes.md)
@@ -8,5 +8,5 @@
   * Submenu Option C
 * Menu Option 3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjYwMjE2OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
 -->
