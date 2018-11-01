@@ -1,3 +1,4 @@
+![enter image description here](http://beta.baxelsystems.com/img/logo/BAXEL-logo-dark.png)
 * **Quick start**
 * **Baxel Concepts**
   * [Application Scopes](README.md)
@@ -10,6 +11,7 @@
   * Submenu Option C
 * **Menu Option 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3Mj
-U5NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
+AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
+MDBdfQ==
 -->
