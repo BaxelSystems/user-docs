@@ -7,11 +7,13 @@
   * [Data Views](README.md)
 * **Data View Components**
   * Custom Fields
-  * Submenu Option B
-  * Submenu Option C
+  * Column Categories
+  * Columns
+  * Filters
+  * Pinned Filters
 * **Menu Option 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MDM4MDQ0LC03OTUzMzIyMjYsODY3Mj
-EyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIzOTE3
-OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2Nz
+IxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkx
+NzgsMTI2NjkzOTkwMF19
 -->
