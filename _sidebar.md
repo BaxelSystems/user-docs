@@ -49,24 +49,24 @@
   - [Integrating via FTP](Bulk-Actions-File-Transfer.md)
   - [integrating via Email](Bulk-Actions-Email.md)
   - [Integrating via API](Bulk-Actions-API.md)
-- User Account/Security**
+- User Account/Security
   - [Logging In to Baxel](Account-Login.md)
-  * [Log in via Baxel Account](Account-Login-Baxel)
-  * [Log in via Corporate Network Account](Account-Login-Network)
-  * [Log in via Social Media Account](Account-Login-Social)
-  * [Viewing Your Profile](Account-Profile.md)
-  * [Two-Factor Authentication](Account-Two-Factor-Auth.md)
-  * [Changing Your Password](Account-Password-Change.md)
-  * [Recovering a Lost Password](Account-Password-Recover.md)
-  * [Registering a New Account](Account-Register.md)
-* **User Personalization**
-  * [Account Preferences](Account-Preferences.md)
-  * [Saved Searches](Account-Search-Library.md)
-* **Administration**
-  * [Managing Organizational Preferences](Admin-Org-Preferences.md)
-  * [Managing Users](Admin-Security-Manage-Users.md)
-  * [Managing Roles](Admin-Security-Manage-Roles.md)
-  * [Managing User Access/Permissions](Admin-Security-Manage-Access.md)
+  - [Log in via Baxel Account](Account-Login-Baxel)
+  - [Log in via Corporate Network Account](Account-Login-Network)
+  - [Log in via Social Media Account](Account-Login-Social)
+  - [Viewing Your Profile](Account-Profile.md)
+  - [Two-Factor Authentication](Account-Two-Factor-Auth.md)
+  - [Changing Your Password](Account-Password-Change.md)
+  - [Recovering a Lost Password](Account-Password-Recover.md)
+  - [Registering a New Account](Account-Register.md)
+- User Personalization
+  - [Account Preferences](Account-Preferences.md)
+  - [Saved Searches](Account-Search-Library.md)
+- Administration
+  - [Managing Organizational Preferences](Admin-Org-Preferences.md)
+  - [Managing Users](Admin-Security-Manage-Users.md)
+  - [Managing Roles](Admin-Security-Manage-Roles.md)
+  - [Managing User Access/Permissions](Admin-Security-Manage-Access.md)
 
 - How Do I? (Tutorials)
   - [How do I recover my lost password?](FAQ.md)
@@ -75,11 +75,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjk4OTExOSwtNTAwMDQ2ODg5LC00OD
-M3NzQ1MzIsLTE4ODE1NTM1ODUsLTExMDk1NzQxMzAsMTA0Njc2
-NTI1OSwxOTMxMTAxOTM1LDM0MTE5ODczOCwtMTIzNjcxMjk3MS
-wxMzA2ODk1ODgyLC0xNzExMzc4NTg1LDEzMDY4OTU4ODIsLTUz
-NTM0MjAwNCwtMTAxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNz
-gyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0Nywy
-MTMzMjM5NTAyXX0=
+eyJoaXN0b3J5IjpbMjc1Mjg3NDIzLC01MDAwNDY4ODksLTQ4Mz
+c3NDUzMiwtMTg4MTU1MzU4NSwtMTEwOTU3NDEzMCwxMDQ2NzY1
+MjU5LDE5MzExMDE5MzUsMzQxMTk4NzM4LC0xMjM2NzEyOTcxLD
+EzMDY4OTU4ODIsLTE3MTEzNzg1ODUsMTMwNjg5NTg4MiwtNTM1
+MzQyMDA0LC0xMDE1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3OD
+IzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIx
+MzMyMzk1MDJdfQ==
 -->
