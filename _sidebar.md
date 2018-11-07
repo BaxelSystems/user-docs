@@ -12,10 +12,10 @@
   - [Custom Fields](DataView-Custom-Fields.md)
   - [Column Categories](DataView-Column-Categories.md)
   - [Columns](DataView-Columns.md)
-  * [Filters](DataView-Filters.md)
-  * [Pinned Filters](DataView-Pinned-Filters.md)
-  * [Visualizations](DataView-Visualizations.md)
-  * [Setting a Default Search](DataView-Configuration.md\#default-search)
+  - [Filters](DataView-Filters.md)
+  - [Pinned Filters](DataView-Pinned-Filters.md)
+  - [Visualizations](DataView-Visualizations.md)
+  - [Setting a Default Search](DataView-Configuration.md\#default-search)
 * **Application Scope Concepts**
   * [Defining a Package](Tool-Package.md)
   * [Customizing the Menu](Tool-Menu.md)
@@ -75,11 +75,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk1MzE5MDcsMTkzMTEwMTkzNSwzND
-ExOTg3MzgsLTEyMzY3MTI5NzEsMTMwNjg5NTg4MiwtMTcxMTM3
-ODU4NSwxMzA2ODk1ODgyLC01MzUzNDIwMDQsLTEwMTU5Nzg1OT
-AsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMz
-MjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMj
-I2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02
-NzIyMzkxNzhdfQ==
+eyJoaXN0b3J5IjpbLTkzMzg2NDIzLDE5MzExMDE5MzUsMzQxMT
+k4NzM4LC0xMjM2NzEyOTcxLDEzMDY4OTU4ODIsLTE3MTEzNzg1
+ODUsMTMwNjg5NTg4MiwtNTM1MzQyMDA0LC0xMDE1OTc4NTkwLC
+03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3ODAsMjEzMzIz
+OTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLTc5NTMzMjIyNi
+w4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3OTA3NiwtNjcy
+MjM5MTc4XX0=
 -->
