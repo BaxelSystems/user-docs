@@ -5,11 +5,11 @@
 * [Quick start](Quickstart.md)
 * [Help and Support](Help-Overview.md)
 * **Baxel Concepts**
-  * [How Do the Pieces Fit?](Baxel-Pieces.md)
-  * [Entity Classes](Entity-Classes.md)
-  * [Entity Types](Entity-Types.md)
-  * [Data Views](Data-Views.md)
-  * [Application Scopes](Application-Scopes.md)
+  * [How Do the Pieces Fit?](Concepts-Baxel-Pieces.md)
+  * [Entity Classes](Concepts-Entity-Classes.md)
+  * [Entity Types](Concepts-Entity-Types.md)
+  * [Data Views](Concepts-Data-Views.md)
+  * [Application Scopes](Concepts-Application-Scopes.md)
 * **Data View Components**
   * [Custom Fields](README.md)
   * [Column Categories](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUxOTMxOTEsLTEwMTU5Nzg1OTAsLT
-c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
-NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
-g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
-MzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTI1Njk4MTM3MywtMTAxNTk3ODU5MCwtNz
+Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
+MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
+Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
+OTE3OCwxMjY2OTM5OTAwXX0=
 -->
