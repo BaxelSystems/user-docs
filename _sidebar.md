@@ -17,8 +17,9 @@
   * [Pinned Filters](README.md)
   * [Visualizations](README.md)
   * [Setting a Default Search](README.md)
-* **Application Scope Components**
-  * [Custom Fields](README.md)
+* **Application Scope Concepts**
+  * [Defining a Package](README.md)
+  * [Customizing the Menu](README.md)
 
 * **Searching for Data**
   * [Search Grid Basics](README.md)
@@ -60,7 +61,7 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcyODkwNTgsLTEwMTU5Nzg1OTAsLT
+eyJoaXN0b3J5IjpbLTIxMjM0MDM5MjAsLTEwMTU5Nzg1OTAsLT
 c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
 NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
 g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
