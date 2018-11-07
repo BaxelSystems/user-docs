@@ -17,7 +17,7 @@
   * [Filters](DataView-Filters.md)
   * [Pinned Filters](DataView-Pinned-Filters.md)
   * [Visualizations](DataView-Visualizations.md)
-  * [Setting a Default Search](DataView-Configuration.md#default-search)
+  * [Setting a Default Search](DataView-Configuration.md\#default-search)
 * **Application Scope Concepts**
   * [Defining a Package](Tool-Package.md)
   * [Customizing the Menu](Tool-Menu.md)
@@ -77,9 +77,9 @@
   * [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMDg5MTYyLC01MzUzNDIwMDQsLTEwMT
-U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
-MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
-k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
-MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbMTMwNjg5NTg4MiwtNTM1MzQyMDA0LC0xMD
+E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
+ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
+c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
+OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
