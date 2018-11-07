@@ -51,6 +51,7 @@
   * [Registering a New Account](README.md)
 * **User Personalization**
   * [Account Preferences](README.md)
+  * [Saved Searches](README.md)
 * **Administration**
   * [Managing Organizational Preferences](README.md)
   * [Managing Users](README.md)
@@ -59,7 +60,7 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxNDI2NzEsLTEwMTU5Nzg1OTAsLT
+eyJoaXN0b3J5IjpbLTIwMjcyODkwNTgsLTEwMTU5Nzg1OTAsLT
 c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
 NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
 g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
