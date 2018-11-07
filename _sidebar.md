@@ -39,15 +39,20 @@
   * [Integrating via FTP](README.md)
   * [integrating via Email](README.md)
   * [Integrating via API](README.md)
+* **User Accounts**
+  * [Viewing your Profi](README.md)
+
 * **Administration**
-  * [Excel Data Export](README.md)
+  * [Managing Organizational Preferences](README.md)
+  * [Managing Users](README.md)
+  * [Managing Roles](README.md)
 
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ1MTI1NzIsLTc0NjkxMzE0OSwxMj
-g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
-NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
-E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
-OTkwMF19
+eyJoaXN0b3J5IjpbODIzMjA5MTIxLC03NDY5MTMxNDksMTI4Nz
+A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
+LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
+AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
+MDBdfQ==
 -->
