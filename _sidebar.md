@@ -42,7 +42,7 @@
   * [Viewing Record Details](Record-Details-Viewing.md)
   * [Editing via Record Details Page](Record-Details-Editing.md)
   * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
-  * [Editing via Bulk Upload 2](Bulk-Actions-Upload.md##edit)
+  * [Editing via Bulk Upload](Bulk-Actions-Upload.md?id=edit)
   * [Editing via Bulk Edit](Bulk-Actions-Edit.md)
   * [Adding a New Record or Package](Record-Details-Create.md)
 * **Importing/Exporting/Integrating Your Data**
@@ -77,7 +77,7 @@
   * [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMjE1MjY3LC0xMjM2NzEyOTcxLDEzMD
+eyJoaXN0b3J5IjpbMzQxMTk4NzM4LC0xMjM2NzEyOTcxLDEzMD
 Y4OTU4ODIsLTE3MTEzNzg1ODUsMTMwNjg5NTg4MiwtNTM1MzQy
 MDA0LC0xMDE1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNy
 wxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMy
