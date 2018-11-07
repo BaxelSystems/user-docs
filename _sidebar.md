@@ -44,10 +44,10 @@
   * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
   * [Editing via Bulk Upload](Bulk-Actions-Upload.md#edit)
   * [Editing via Bulk Edit](Bulk-Actions-Edit.md)
-  * [Adding a new Record or Package](Record-Details-Create.md)
+  * [Adding a New Record or Package](Record-Details-Create.md)
 * **Importing/Exporting/Integrating Your Data**
-  * [Excel Data Export](README.md)
-  * [Bulk Data Upload](README.md)
+  * [Excel Data Export](Bulk-Actions-Export.md)
+  * [Bulk Data Upload](Bulk-Actions-Upload.md)
   * [Integrating via FTP](README.md)
   * [integrating via Email](README.md)
   * [Integrating via API](README.md)
@@ -74,7 +74,7 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzk3NDc1MSwtNTM1MzQyMDA0LC0xMD
+eyJoaXN0b3J5IjpbLTE0MjQ4ODAyOCwtNTM1MzQyMDA0LC0xMD
 E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
 ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
 c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
