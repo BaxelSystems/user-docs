@@ -42,7 +42,7 @@
   * [Viewing Record Details](Record-Details-Viewing.md)
   * [Editing via Record Details Page](Record-Details-Editing.md)
   * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
-  * [Editing via Bulk Upload](Bulk-Actions-Upload.md#edit)
+  * [Editing via Bulk Upload](Bulk-Actions-Upload.md##edit)
   * [Editing via Bulk Edit](Bulk-Actions-Edit.md)
   * [Adding a New Record or Package](Record-Details-Create.md)
 * **Importing/Exporting/Integrating Your Data**
@@ -77,10 +77,10 @@
   * [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjg5NTg4MiwtMTcxMTM3ODU4NSwxMz
-A2ODk1ODgyLC01MzUzNDIwMDQsLTEwMTU5Nzg1OTAsLTc0Njkx
-MzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC
-04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIx
-MjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNz
-gsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTEyMzY3MTI5NzEsMTMwNjg5NTg4MiwtMT
+cxMTM3ODU4NSwxMzA2ODk1ODgyLC01MzUzNDIwMDQsLTEwMTU5
+Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MC
+wyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1
+MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MD
+c2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
 -->
