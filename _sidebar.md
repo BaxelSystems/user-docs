@@ -3,6 +3,7 @@
 ## Documentation
 
 * [Quick start](Quickstart.md)
+* [Help and Support](Help-Overview.md)
 * **Baxel Concepts**
   * [How Do the Pieces Fit?](Baxel-Pieces.md)
   * [Entity Classes](Entity-Classes.md)
@@ -73,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzYzODQyOSwtMTAxNTk3ODU5MCwtNz
-Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
-MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
-Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
-OTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTEzMjUxOTMxOTEsLTEwMTU5Nzg1OTAsLT
+c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
+NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
+g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
+MzkxNzgsMTI2NjkzOTkwMF19
 -->
