@@ -11,8 +11,8 @@
   * [Data Views](Concepts-Data-Views.md)
   * [Application Scopes](Concepts-Application-Scopes.md)
 * **Data View Components**
-  * [Custom Fields](README.md)
-  * [Column Categories](README.md)
+  * [Custom Fields](DataView-Custom-Fields)
+  * [Column Categories](DataView-Column-Categories)
   * [Columns](README.md)
   * [Filters](README.md)
   * [Pinned Filters](README.md)
@@ -74,7 +74,7 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Njk4MTM3MywtMTAxNTk3ODU5MCwtNz
+eyJoaXN0b3J5IjpbLTMyMDg0MDMxNSwtMTAxNTk3ODU5MCwtNz
 Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
 MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
 Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
