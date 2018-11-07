@@ -52,10 +52,10 @@
   * [integrating via Email](Bulk-Actions-Email.md)
   * [Integrating via API](Bulk-Actions-API.md)
 * **User Account/Security**
-  * [Logging In to Baxel](README.md)
-  * [Log in via Baxel Account](README.md)
-  * [Log in via Corporate Network Account](README.md)
-  * [Log in via Social Media Account](README.md)
+  * [Logging In to Baxel](Account-Login.md)
+  * [Log in via Baxel Account](Account-Login-Types.md#baxel)
+  * [Log in via Corporate Network Account](Account-Login-Types.md#network)
+  * [Log in via Social Media Account](Account-Login-Types.md#oauth)
   * [Viewing Your Profile](README.md)
   * [Two-Factor Authentication](README.md)
   * [Changing Your Password](README.md)
@@ -78,9 +78,9 @@
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjk2NDYyMywtNTM1MzQyMDA0LC0xMD
-E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
-ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
-c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
-OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
+eyJoaXN0b3J5IjpbMzA2NjQzNTE5LC01MzUzNDIwMDQsLTEwMT
+U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
+MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
+k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
+MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
 -->
