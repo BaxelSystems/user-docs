@@ -29,9 +29,8 @@
   * [Actualization of Milestones](README.md)
   * [Workflows](README.md)
   * [Scheduling and Durations/Offsets](README.md)
-  * [Field Calculations Rules](README.md)
-  * [Field Validations](README.md)
-  * [Field Calculations Rules](README.md)
+  * [Automated Field Calculations](README.md)
+  * [Automated Field Validations](README.md)
 * **Searching for Data**
   * [Search Grid Basics](README.md)
   * [Filtering Your Results](README.md)
@@ -68,13 +67,13 @@
   * [Managing Organizational Preferences](README.md)
   * [Managing Users](README.md)
   * [Managing Roles](README.md)
-
+  * [Managing User Permissions](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTk5MDY4NSwtMTAxNTk3ODU5MCwtNz
-Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
-MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
-Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
-OTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTE2MjE1MjkzNzAsLTEwMTU5Nzg1OTAsLT
+c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
+NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
+g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
+MzkxNzgsMTI2NjkzOTkwMF19
 -->
