@@ -47,7 +47,7 @@
   * [Viewing Your Profile](README.md)
   * [Two-Factor Authentication](README.md)
   * [Changing Your Password](README.md)
-  * [Rec](README.md)
+  * [Recovering a Lost Password](README.md)
 
 * **Administration**
   * [Managing Organizational Preferences](README.md)
@@ -57,9 +57,9 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MjM5MjUwLC03NDY5MTMxNDksMTI4Nz
-A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
-LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
-AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OSwxMj
+g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
+NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
+E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
+OTkwMF19
 -->
