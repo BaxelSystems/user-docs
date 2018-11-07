@@ -25,8 +25,10 @@
   * [Select the Included Milestones](README.md)
   * [Select the Included Data Views](README.md)
 * **Workflow and Automation**
-  * [Milestones](README.md)
-  * [Worflows](README.md)
+  * [Milestones and Date Sets](README.md)
+  * [Actualization of Milestones](README.md)
+  * [Workflows](README.md)
+  * [Field Calculations Rules Engine](README.md)
 * **Searching for Data**
   * [Search Grid Basics](README.md)
   * [Filtering Your Results](README.md)
@@ -67,7 +69,7 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDYwNzg1MSwtMTAxNTk3ODU5MCwtNz
+eyJoaXN0b3J5IjpbLTI1NDk1NDA5MywtMTAxNTk3ODU5MCwtNz
 Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
 MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
 Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
