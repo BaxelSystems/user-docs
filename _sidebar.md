@@ -2,9 +2,9 @@
 
 ## Documentation
 
-* **Quick start**
+* [Quick start](Quickstart.md)
 * **Baxel Concepts**
-  * [How Do the Pieces Fit?](Entity-Classes.md)
+  * [How Do the Pieces Fit?](Baxel-Pieces.md)
   * [Entity Classes](Entity-Classes.md)
   * [Entity Types](Entity-Types.md)
   * [Data Views](Data-Views.md)
@@ -73,9 +73,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMDU2NzQ0LC0xMDE1OTc4NTkwLC03ND
-Y5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUw
-MiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4Nj
-cyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5
-MTc4LDEyNjY5Mzk5MDBdfQ==
+eyJoaXN0b3J5IjpbMTc2MzYzODQyOSwtMTAxNTk3ODU5MCwtNz
+Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
+MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
+Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
+OTE3OCwxMjY2OTM5OTAwXX0=
 -->
