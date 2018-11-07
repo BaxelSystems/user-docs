@@ -55,11 +55,11 @@
   * [Logging In to Baxel](Account-Login.md)
   * [Log in via Baxel Account](Account-Login-Types.md#baxel)
   * [Log in via Corporate Network Account](Account-Login-Types.md#network)
-  * [Log in via Social Media Account](Account-Login-Types.md#oauth)
-  * [Viewing Your Profile](README.md)
-  * [Two-Factor Authentication](README.md)
-  * [Changing Your Password](README.md)
-  * [Recovering a Lost Password](README.md)
+  * [Log in via Social Media Account](Account-Login-Types.md#social)
+  * [Viewing Your Profile](Account-Profile.md)
+  * [Two-Factor Authentication](Account-Two-Factor-Auth.md)
+  * [Changing Your Password](Account-Password-Change.md)
+  * [Recovering a Lost Password](Account-Password-Recover.md)
   * [Registering a New Account](README.md)
 * **User Personalization**
   * [Account Preferences](README.md)
@@ -78,9 +78,9 @@
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NjQzNTE5LC01MzUzNDIwMDQsLTEwMT
-U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
-MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
-k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
-MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTE2MDkyNjQ0NTksLTUzNTM0MjAwNCwtMT
+AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
+NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
+03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
+NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
 -->
