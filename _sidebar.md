@@ -26,7 +26,7 @@
   * [Select the Included Milestones](Tool-Included-Milestones.md)
   * [Select the Included Data Views](Tool-Included-Views.md)
 * **Workflow and Automation**
-  * [Milestones and Date Sets](README.md)
+  * [Milestones and Date Sets](Automation-Milestones.md)
   * [Actualization of Milestones](README.md)
   * [Workflows](README.md)
   * [Scheduling and Durations/Offsets](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE2MTgyNzksLTEwMTU5Nzg1OTAsLT
-c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
-NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
-g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
-MzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTUzNTM0MjAwNCwtMTAxNTk3ODU5MCwtNz
+Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
+MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
+Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
+OTE3OCwxMjY2OTM5OTAwXX0=
 -->
