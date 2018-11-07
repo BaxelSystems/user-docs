@@ -39,9 +39,9 @@
   * [Saving Searches](Search-Grid-Saving.md)
   * [Saved Search Library](Search-Grid-Loading.md)
 * **Working with Data**
-  * [Viewing Record Details](README.md)
-  * [Editing via Record Details Page](README.md)
-  * [Editing via Search Grid](README.md)
+  * [Viewing Record Details](Record-Details-Viewing.md)
+  * [Editing via Record Details Page](Record-Details-Editing.md)
+  * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
   * [Editing via Bulk Upload](README.md)
   * [Editing via Bulk Edit](README.md)
   * [Adding a new Record or Package](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUyODYyNTEsLTUzNTM0MjAwNCwtMT
-AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
-NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
-03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
-NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTc2NjY5MjYyLC01MzUzNDIwMDQsLTEwMT
+U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
+MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
+k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
+MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
 -->
