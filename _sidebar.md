@@ -33,9 +33,9 @@
   * [Automated Field Calculations](Automation-Rules-Calculations.md)
   * [Automated Field Validations](Automation-Rules-Validations.md)
 * **Searching for Data**
-  * [Search Grid Basics](DataView-Grid.md)
-  * [Filtering Your Results](DataView-Search-Filter.md)
-  * [Add/Remove Columns](README.md)
+  * [Search Grid Basics](Search-Grid.md)
+  * [Filtering Your Results](Search-Grid-Filter.md)
+  * [Add/Remove Columns](Search-Grid-Columns.md)
   * [Saving Searches](README.md)
   * [Saved Search Library](README.md)
 * **Working with Data**
@@ -74,7 +74,7 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQxOTQzNiwtNTM1MzQyMDA0LC0xMD
+eyJoaXN0b3J5IjpbMTI4MDE4NTY4NywtNTM1MzQyMDA0LC0xMD
 E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
 ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
 c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
