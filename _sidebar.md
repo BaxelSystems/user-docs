@@ -60,10 +60,10 @@
   * [Two-Factor Authentication](Account-Two-Factor-Auth.md)
   * [Changing Your Password](Account-Password-Change.md)
   * [Recovering a Lost Password](Account-Password-Recover.md)
-  * [Registering a New Account](README.md)
+  * [Registering a New Account](Account-Register.md)
 * **User Personalization**
-  * [Account Preferences](README.md)
-  * [Saved Searches](README.md)
+  * [Account Preferences](Account-Preferences.md)
+  * [Saved Searches](Account-Search-Library.md)
 * **Administration**
   * [Managing Organizational Preferences](README.md)
   * [Managing Users](README.md)
@@ -78,9 +78,9 @@
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkyNjQ0NTksLTUzNTM0MjAwNCwtMT
-AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
-NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
-03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
-NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbMjAwNTMyODkzOCwtNTM1MzQyMDA0LC0xMD
+E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
+ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
+c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
+OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
