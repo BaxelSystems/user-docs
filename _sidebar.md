@@ -20,11 +20,11 @@
   * [Setting a Default Search](DataView-Configuration.md#default-search)
 * **Application Scope Concepts**
   * [Defining a Package](Tool-Package.md)
-  * [Customizing the Menu](README.md)
-  * [Select the Included Entity Types](README.md)
-  * [Select the Included Fields](README.md)
-  * [Select the Included Milestones](README.md)
-  * [Select the Included Data Views](README.md)
+  * [Customizing the Menu](Tool-Menu.md)
+  * [Select the Included Entity Types](Tool-Included-Entities.md)
+  * [Select the Included Fields](Tool-Included-Fields.md)
+  * [Select the Included Milestones](Tool-Included-Milestones.md)
+  * [Select the Included Data Views](Tool-Included-Views.md)
 * **Workflow and Automation**
   * [Milestones and Date Sets](README.md)
   * [Actualization of Milestones](README.md)
@@ -74,7 +74,7 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI3NDEwNDQsLTEwMTU5Nzg1OTAsLT
+eyJoaXN0b3J5IjpbLTEwNjE2MTgyNzksLTEwMTU5Nzg1OTAsLT
 c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
 NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
 g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
