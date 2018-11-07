@@ -22,7 +22,11 @@
   * [Customizing the Menu](README.md)
   * [Select the Included Entity Types](README.md)
   * [Select the Included Fields](README.md)
-
+  * [Select the Included Milestones](README.md)
+  * [Select the Included Data Views](README.md)
+* **Workflow and Automation**
+  * [Milestones](README.md)
+  * [Worflows](README.md)
 * **Searching for Data**
   * [Search Grid Basics](README.md)
   * [Filtering Your Results](README.md)
@@ -63,7 +67,7 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODQ5ODY2OSwtMTAxNTk3ODU5MCwtNz
+eyJoaXN0b3J5IjpbLTU0MDYwNzg1MSwtMTAxNTk3ODU5MCwtNz
 Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
 MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
 Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
