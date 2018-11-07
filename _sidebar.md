@@ -25,16 +25,19 @@
   * [Saved Search Library](README.md)
 * **Working with Data**
   * [Viewing Record Details](README.md)
-  * [Editing a](README.md)
+  * [Editing via Record Details Page](README.md)
+  * [Editing via Search Grid](README.md)
+  * [Editing via Bulk Upload](README.md)
+  * [Editing via Bulk Edit](README.md)
 
 * **Searching for Data**
   * [Search Grid Basics](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTQ5NDEzOSwtNzQ2OTEzMTQ5LDEyOD
-cwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0
-NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsODY3MjEyMzQzLC0yMT
-QwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5
-OTAwXX0=
+eyJoaXN0b3J5IjpbNDExMTUxOTMzLC03NDY5MTMxNDksMTI4Nz
+A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
+LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
+AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
+MDBdfQ==
 -->
