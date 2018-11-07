@@ -70,18 +70,18 @@
   * [Managing Roles](Admin-Security-Manage-Roles.md)
   * [Managing User Access/Permissions](Admin-Security-Manage-Access.md)
 
-* **How Do I? (Tutorials)**
-  * [How do I recover my lost password?](FAQ.md)
-  * [How do I receive notifications when data changes?](FAQ.md)
-  * [How do I modify the menu?](FAQ.md)
-  * [How do I create a new tool?](FAQ.md)
+- How Do I? (Tutorials)**
+  - [How do I recover my lost password?](FAQ.md)
+  - [How do I receive notifications when data changes?](FAQ.md)
+  - [How do I modify the menu?](FAQ.md)
+  - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMTk4NzM4LC0xMjM2NzEyOTcxLDEzMD
-Y4OTU4ODIsLTE3MTEzNzg1ODUsMTMwNjg5NTg4MiwtNTM1MzQy
-MDA0LC0xMDE1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNy
-wxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMy
-Mzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1ND
-AsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
-
+eyJoaXN0b3J5IjpbMTkzMTEwMTkzNSwzNDExOTg3MzgsLTEyMz
+Y3MTI5NzEsMTMwNjg5NTg4MiwtMTcxMTM3ODU4NSwxMzA2ODk1
+ODgyLC01MzUzNDIwMDQsLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OS
+wxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAx
+NzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0My
+wtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2
+NjkzOTkwMF19
 -->
