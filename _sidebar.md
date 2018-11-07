@@ -23,12 +23,18 @@
   * [Add/Remove Columns](README.md)
   * [Saving Searches](README.md)
   * [Saved Search Library](README.md)
+* **Working with Data**
+  * [Viewing Record Details](README.md)
+  * [Editing a](README.md)
+
+* **Searching for Data**
+  * [Search Grid Basics](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc1ODg0MjMsLTc0NjkxMzE0OSwxMj
-g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
-NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
-E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
-OTkwMF19
+eyJoaXN0b3J5IjpbMTA0OTQ5NDEzOSwtNzQ2OTEzMTQ5LDEyOD
+cwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0
+NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsODY3MjEyMzQzLC0yMT
+QwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5
+OTAwXX0=
 -->
