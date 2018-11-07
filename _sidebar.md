@@ -39,7 +39,7 @@
   * [Integrating via FTP](README.md)
   * [integrating via Email](README.md)
   * [Integrating via API](README.md)
-* **User Accounts**
+* **User Account/Security**
   * [Logging In to Baxel](README.md)
   * [Log in via Baxel Account](README.md)
   * [Log in via Corporate Network Account](README.md)
@@ -48,7 +48,9 @@
   * [Two-Factor Authentication](README.md)
   * [Changing Your Password](README.md)
   * [Recovering a Lost Password](README.md)
-
+  * [Registering a New Account](README.md)
+* **User Personalization**
+  * [Account Preferences](README.md)
 * **Administration**
   * [Managing Organizational Preferences](README.md)
   * [Managing Users](README.md)
@@ -57,9 +59,9 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OSwxMj
-g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
-NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
-E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
-OTkwMF19
+eyJoaXN0b3J5IjpbLTE0MTQxNDI2NzEsLTEwMTU5Nzg1OTAsLT
+c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
+NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
+g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
+MzkxNzgsMTI2NjkzOTkwMF19
 -->
