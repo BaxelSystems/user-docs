@@ -50,7 +50,7 @@
   * [Bulk Data Upload](Bulk-Actions-Upload.md)
   * [Integrating via FTP](Bulk-Actions-File-Transfer.md)
   * [integrating via Email](Bulk-Actions-Email.md)
-  * [Integrating via API](README.md)
+  * [Integrating via API](Bulk-Actions-API.md)
 * **User Account/Security**
   * [Logging In to Baxel](README.md)
   * [Log in via Baxel Account](README.md)
@@ -72,12 +72,15 @@
 
 * **How Do I? (Tutorials)**
   * [How do I recover my lost password?](README.md)
-  * How do I receive notifications 
+  * How do I receive notifications when data changes?
+  * How do I modify the menu?
+  * How do I create a new tool?
+  * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2OTA5ODg1LC01MzUzNDIwMDQsLTEwMT
-U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
-MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
-k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
-MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbMTgyMjk2NDYyMywtNTM1MzQyMDA0LC0xMD
+E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
+ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
+c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
+OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
