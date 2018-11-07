@@ -40,7 +40,14 @@
   * [integrating via Email](README.md)
   * [Integrating via API](README.md)
 * **User Accounts**
-  * [Viewing your Profi](README.md)
+  * [Logging In to Baxel](README.md)
+  * [Log in via Baxel Account](README.md)
+  * [Log in via Corporate Network Account](README.md)
+  * [Log in via Social Media Account](README.md)
+  * [Viewing Your Profile](README.md)
+  * [Two-Factor Authentication](README.md)
+  * [Changing Your Password](README.md)
+  * [Rec](README.md)
 
 * **Administration**
   * [Managing Organizational Preferences](README.md)
@@ -50,7 +57,7 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMjA5MTIxLC03NDY5MTMxNDksMTI4Nz
+eyJoaXN0b3J5IjpbODA3MjM5MjUwLC03NDY5MTMxNDksMTI4Nz
 A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
 LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
 AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
