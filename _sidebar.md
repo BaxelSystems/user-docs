@@ -17,14 +17,16 @@
   * [Pinned Filters](README.md)
   * [Visualizations](README.md)
 * **Searching for Data**
-  * [Working With the Search Grid](README.md)
-  * [Filter](README.md)
+  * [Search Grid Basics](README.md)
+  * [Filtering Your Results](README.md)
+  * [Add/Remove Columns](README.md)
+  * [Saving Searches](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDQ3MzI3MiwtNzQ2OTEzMTQ5LDEyOD
-cwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0
-NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsODY3MjEyMzQzLC0yMT
-QwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5
-OTAwXX0=
+eyJoaXN0b3J5IjpbMzMwMTY5NDExLC03NDY5MTMxNDksMTI4Nz
+A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
+LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
+AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
+MDBdfQ==
 -->
