@@ -17,9 +17,9 @@
   * [Filters](DataView-Filters.md)
   * [Pinned Filters](DataView-Pinned-Filters.md)
   * [Visualizations](DataView-Visualizations.md)
-  * [Setting a Default Search](README.md)
+  * [Setting a Default Search](DataView-Configuration.md#default-search)
 * **Application Scope Concepts**
-  * [Defining a Package](README.md)
+  * [Defining a Package](Tool-Package.md)
   * [Customizing the Menu](README.md)
   * [Select the Included Entity Types](README.md)
   * [Select the Included Fields](README.md)
@@ -74,7 +74,7 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQzMTMxMDIsLTEwMTU5Nzg1OTAsLT
+eyJoaXN0b3J5IjpbLTE4MDI3NDEwNDQsLTEwMTU5Nzg1OTAsLT
 c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
 NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
 g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
