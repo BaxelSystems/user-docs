@@ -33,15 +33,19 @@
   * [Editing via Bulk Upload](README.md)
   * [Editing via Bulk Edit](README.md)
   * [Adding a new Record or Package](README.md)
-
 * **Importing/Exporting/Integrating Your Data**
   * [Excel Data Export](README.md)
   * [Bulk Data Upload](README.md)
-  * [Search Grid Basics](README.md)
+  * [Integrating via FTP](README.md)
+  * [integrating via Email](README.md)
+  * [Integrating via API](README.md)
+* **Administration**
+  * [Excel Data Export](README.md)
+
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc0NTU4NjQsLTc0NjkxMzE0OSwxMj
+eyJoaXN0b3J5IjpbLTE4NTQ1MTI1NzIsLTc0NjkxMzE0OSwxMj
 g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
 NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
 E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
