@@ -16,41 +16,41 @@
   - [Pinned Filters](DataView-Pinned-Filters.md)
   - [Visualizations](DataView-Visualizations.md)
   - [Setting a Default Search](DataView-Configuration)
-* **Application Scope Concepts**
-  * [Defining a Package](Tool-Package.md)
-  * [Customizing the Menu](Tool-Menu.md)
-  * [Select the Included Entity Types](Tool-Included-Entities.md)
-  * [Select the Included Fields](Tool-Included-Fields.md)
-  * [Select the Included Milestones](Tool-Included-Milestones.md)
-  * [Select the Included Data Views](Tool-Included-Views.md)
-* **Workflow and Automation**
-  * [Milestones and Date Sets](Automation-Milestones.md)
-  * [Actualization of Milestones](Automation-Milestone-Actualization.md)
-  * [Workflows](Automation-Workflows.md)
-  * [Scheduling and Durations/Offsets](Automation-Scheduling.md)
-  * [Automated Field Calculations](Automation-Rules-Calculations.md)
-  * [Automated Field Validations](Automation-Rules-Validations.md)
-* **Searching for Data**
-  * [Search Grid Basics](Search-Grid.md)
-  * [Filtering Your Results](Search-Grid-Filter.md)
-  * [Add/Remove Columns](Search-Grid-Columns.md)
-  * [Saving Searches](Search-Grid-Saving.md)
-  * [Saved Search Library](Search-Grid-Loading.md)
-* **Working with Data**
-  * [Viewing Record Details](Record-Details-Viewing.md)
-  * [Editing via Record Details Page](Record-Details-Editing.md)
-  * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
-  * [Editing via Bulk Upload](Bulk-Actions-Upload.md?id=edit)
-  * [Editing via Bulk Edit](Bulk-Actions-Edit.md)
-  * [Adding a New Record or Package](Record-Details-Create.md)
-* **Importing/Exporting/Integrating Your Data**
-  * [Excel Data Export](Bulk-Actions-Export.md)
-  * [Bulk Data Upload](Bulk-Actions-Upload.md)
-  * [Integrating via FTP](Bulk-Actions-File-Transfer.md)
-  * [integrating via Email](Bulk-Actions-Email.md)
-  * [Integrating via API](Bulk-Actions-API.md)
-* **User Account/Security**
-  * [Logging In to Baxel](Account-Login.md)
+- Application Scope Concepts
+  - [Defining a Package](Tool-Package.md)
+  - [Customizing the Menu](Tool-Menu.md)
+  - [Select the Included Entity Types](Tool-Included-Entities.md)
+  - [Select the Included Fields](Tool-Included-Fields.md)
+  - [Select the Included Milestones](Tool-Included-Milestones.md)
+  - [Select the Included Data Views](Tool-Included-Views.md)
+- Workflow and Automation
+  - [Milestones and Date Sets](Automation-Milestones.md)
+  - [Actualization of Milestones](Automation-Milestone-Actualization.md)
+  - [Workflows](Automation-Workflows.md)
+  - [Scheduling and Durations/Offsets](Automation-Scheduling.md)
+  - [Automated Field Calculations](Automation-Rules-Calculations.md)
+  - [Automated Field Validations](Automation-Rules-Validations.md)
+- Searching for Data
+  - [Search Grid Basics](Search-Grid.md)
+  - [Filtering Your Results](Search-Grid-Filter.md)
+  - [Add/Remove Columns](Search-Grid-Columns.md)
+  - [Saving Searches](Search-Grid-Saving.md)
+  - [Saved Search Library](Search-Grid-Loading.md)
+- Working with Data
+  - [Viewing Record Details](Record-Details-Viewing.md)
+  - [Editing via Record Details Page](Record-Details-Editing.md)
+  - [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
+  - [Editing via Bulk Upload](Bulk-Actions-Upload.md?id=edit)
+  - [Editing via Bulk Edit](Bulk-Actions-Edit.md)
+  - [Adding a New Record or Package](Record-Details-Create.md)
+- Importing/Exporting/Integrating Your Data**
+  - [Excel Data Export](Bulk-Actions-Export.md)
+  - [Bulk Data Upload](Bulk-Actions-Upload.md)
+  - [Integrating via FTP](Bulk-Actions-File-Transfer.md)
+  - [integrating via Email](Bulk-Actions-Email.md)
+  - [Integrating via API](Bulk-Actions-API.md)
+- User Account/Security**
+  - [Logging In to Baxel](Account-Login.md)
   * [Log in via Baxel Account](Account-Login-Baxel)
   * [Log in via Corporate Network Account](Account-Login-Network)
   * [Log in via Social Media Account](Account-Login-Social)
@@ -75,11 +75,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI2NDA0MDgsLTUwMDA0Njg4OSwtND
-gzNzc0NTMyLC0xODgxNTUzNTg1LC0xMTA5NTc0MTMwLDEwNDY3
-NjUyNTksMTkzMTEwMTkzNSwzNDExOTg3MzgsLTEyMzY3MTI5Nz
-EsMTMwNjg5NTg4MiwtMTcxMTM3ODU4NSwxMzA2ODk1ODgyLC01
-MzUzNDIwMDQsLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MD
-c4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcs
-MjEzMzIzOTUwMl19
+eyJoaXN0b3J5IjpbMTcwMjk4OTExOSwtNTAwMDQ2ODg5LC00OD
+M3NzQ1MzIsLTE4ODE1NTM1ODUsLTExMDk1NzQxMzAsMTA0Njc2
+NTI1OSwxOTMxMTAxOTM1LDM0MTE5ODczOCwtMTIzNjcxMjk3MS
+wxMzA2ODk1ODgyLC0xNzExMzc4NTg1LDEzMDY4OTU4ODIsLTUz
+NTM0MjAwNCwtMTAxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNz
+gyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0Nywy
+MTMzMjM5NTAyXX0=
 -->
