@@ -34,14 +34,16 @@
   * [Editing via Bulk Edit](README.md)
   * [Adding a new Record or Package](README.md)
 
-* **Searching for Data**
+* **Importing/Exporting/Integrating Your Data**
+  * [Excel Data Export](README.md)
+  * [Bulk Data Upload](README.md)
   * [Search Grid Basics](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjc4NjksLTc0NjkxMzE0OSwxMjg3MD
-c4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcs
-MjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMjE0MD
-I1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkw
-MF19
+eyJoaXN0b3J5IjpbLTE4Mzc0NTU4NjQsLTc0NjkxMzE0OSwxMj
+g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
+NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
+E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
+OTkwMF19
 -->
