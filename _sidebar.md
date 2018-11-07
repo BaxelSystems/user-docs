@@ -4,10 +4,11 @@
 
 * **Quick start**
 * **Baxel Concepts**
+  * [How Do the Pieces Fit?](Entity-Classes.md)
   * [Entity Classes](Entity-Classes.md)
-  * [Entity Types](README.md)
-  * [Data Views](README.md)
-  * [Application Scopes](README.md)
+  * [Entity Types](Entity-Types.md)
+  * [Data Views](Data-Views.md)
+  * [Application Scopes](Application-Scopes.md)
 * **Data View Components**
   * [Custom Fields](README.md)
   * [Column Categories](README.md)
@@ -16,9 +17,9 @@
   * [Pinned Filters](README.md)
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYzMDIxOTcsLTc0NjkxMzE0OSwxMj
-g3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2
-NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMj
-E0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2Njkz
-OTkwMF19
+eyJoaXN0b3J5IjpbMTcyNzY5NTQxMCwtNzQ2OTEzMTQ5LDEyOD
+cwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0
+NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsODY3MjEyMzQzLC0yMT
+QwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5
+OTAwXX0=
 -->
