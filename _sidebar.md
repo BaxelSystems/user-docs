@@ -36,8 +36,8 @@
   * [Search Grid Basics](Search-Grid.md)
   * [Filtering Your Results](Search-Grid-Filter.md)
   * [Add/Remove Columns](Search-Grid-Columns.md)
-  * [Saving Searches](README.md)
-  * [Saved Search Library](README.md)
+  * [Saving Searches](Search-Grid-Saving.md)
+  * [Saved Search Library](Search-Grid-Loading.md)
 * **Working with Data**
   * [Viewing Record Details](README.md)
   * [Editing via Record Details Page](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDE4NTY4NywtNTM1MzQyMDA0LC0xMD
-E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
-ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
-c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
-OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
+eyJoaXN0b3J5IjpbLTE2MzUyODYyNTEsLTUzNTM0MjAwNCwtMT
+AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
+NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
+03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
+NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
 -->
