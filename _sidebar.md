@@ -42,9 +42,9 @@
   * [Viewing Record Details](Record-Details-Viewing.md)
   * [Editing via Record Details Page](Record-Details-Editing.md)
   * [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
-  * [Editing via Bulk Upload](README.md)
-  * [Editing via Bulk Edit](README.md)
-  * [Adding a new Record or Package](README.md)
+  * [Editing via Bulk Upload](Bulk-Actions-Upload.md#edit)
+  * [Editing via Bulk Edit](Bulk-Actions-Edit.md)
+  * [Adding a new Record or Package](Record-Details-Create.md)
 * **Importing/Exporting/Integrating Your Data**
   * [Excel Data Export](README.md)
   * [Bulk Data Upload](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjY5MjYyLC01MzUzNDIwMDQsLTEwMT
-U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
-MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
-k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
-MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbMTkxNzk3NDc1MSwtNTM1MzQyMDA0LC0xMD
+E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
+ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
+c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
+OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
