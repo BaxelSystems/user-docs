@@ -65,10 +65,10 @@
   * [Account Preferences](Account-Preferences.md)
   * [Saved Searches](Account-Search-Library.md)
 * **Administration**
-  * [Managing Organizational Preferences](README.md)
-  * [Managing Users](README.md)
-  * [Managing Roles](README.md)
-  * [Managing User Permissions](README.md)
+  * [Managing Organizational Preferences](Admin-Org-Preferences.md)
+  * [Managing Users](Admin-Security-Manage-Users.md)
+  * [Managing Roles](Admin-Security-Manage-Roles.md)
+  * [Managing User Permissions](Admin-Security-Manage-Access.md)
 
 * **How Do I? (Tutorials)**
   * [How do I recover my lost password?](README.md)
@@ -78,9 +78,9 @@
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTMyODkzOCwtNTM1MzQyMDA0LC0xMD
-E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
-ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
-c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
-OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjY4Mzg5ODUsLTUzNTM0MjAwNCwtMT
+AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
+NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
+03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
+NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
 -->
