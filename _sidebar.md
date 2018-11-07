@@ -20,6 +20,8 @@
 * **Application Scope Concepts**
   * [Defining a Package](README.md)
   * [Customizing the Menu](README.md)
+  * [Select the Included Entity Types](README.md)
+  * [Select the Included Fields](README.md)
 
 * **Searching for Data**
   * [Search Grid Basics](README.md)
@@ -61,9 +63,9 @@
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0MDM5MjAsLTEwMTU5Nzg1OTAsLT
-c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
-NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
-g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
-MzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbMTc2ODQ5ODY2OSwtMTAxNTk3ODU5MCwtNz
+Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
+MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
+Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
+OTE3OCwxMjY2OTM5OTAwXX0=
 -->
