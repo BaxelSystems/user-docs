@@ -30,8 +30,8 @@
   * [Actualization of Milestones](Automation-Milestone-Actualization.md)
   * [Workflows](Automation-Workflows.md)
   * [Scheduling and Durations/Offsets](Automation-Scheduling.md)
-  * [Automated Field Calculations](README.md)
-  * [Automated Field Validations](README.md)
+  * [Automated Field Calculations](Automation-Rules-Calculations.md)
+  * [Automated Field Validations](Automation-Rules-Validations.md)
 * **Searching for Data**
   * [Search Grid Basics](README.md)
   * [Filtering Your Results](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0NDk2NTMsLTUzNTM0MjAwNCwtMT
-AxNTk3ODU5MCwtNzQ2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1
-NzgwLDIxMzMyMzk1MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC
-03OTUzMzIyMjYsODY3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5
-NzkwNzYsLTY3MjIzOTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTM2NzQ5ODI0NSwtNTM1MzQyMDA0LC0xMD
+E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
+ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
+c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
+OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
