@@ -51,9 +51,9 @@
   * [Integrating via API](Bulk-Actions-API.md)
 * **User Account/Security**
   * [Logging In to Baxel](Account-Login.md)
-  * [Log in via Baxel Account](Account-Login-Types.md#baxel)
-  * [Log in via Corporate Network Account](Account-Login-Types.md#network)
-  * [Log in via Social Media Account](Account-Login-Types.md#social)
+  * [Log in via Baxel Account](Account-Login-Baxel)
+  * [Log in via Corporate Network Account](Account-Login-Network)
+  * [Log in via Social Media Account](Account-Login-Social)
   * [Viewing Your Profile](Account-Profile.md)
   * [Two-Factor Authentication](Account-Two-Factor-Auth.md)
   * [Changing Your Password](Account-Password-Change.md)
@@ -75,11 +75,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDA0Njg4OSwtNDgzNzc0NTMyLC0xOD
-gxNTUzNTg1LC0xMTA5NTc0MTMwLDEwNDY3NjUyNTksMTkzMTEw
-MTkzNSwzNDExOTg3MzgsLTEyMzY3MTI5NzEsMTMwNjg5NTg4Mi
-wtMTcxMTM3ODU4NSwxMzA2ODk1ODgyLC01MzUzNDIwMDQsLTEw
-MTU5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNT
-c4MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwt
-Nzk1MzMyMjI2XX0=
+eyJoaXN0b3J5IjpbLTE1MTI2NDA0MDgsLTUwMDA0Njg4OSwtND
+gzNzc0NTMyLC0xODgxNTUzNTg1LC0xMTA5NTc0MTMwLDEwNDY3
+NjUyNTksMTkzMTEwMTkzNSwzNDExOTg3MzgsLTEyMzY3MTI5Nz
+EsMTMwNjg5NTg4MiwtMTcxMTM3ODU4NSwxMzA2ODk1ODgyLC01
+MzUzNDIwMDQsLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MD
+c4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcs
+MjEzMzIzOTUwMl19
 -->
