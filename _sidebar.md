@@ -2,7 +2,7 @@
 
 - [Quick start](Quickstart.md)
 - [Help and Support](Help-Overview.md)
-- Baxel Concepts
+- **Baxel Concepts**
   - [How Do the Pieces Fit?](Concepts-Baxel-Pieces.md)
   - [Entity Classes](Concepts-Entity-Classes.md)
   - [Entity Types](Concepts-Entity-Types.md)
@@ -40,10 +40,10 @@
   - [Viewing Record Details](Record-Details-Viewing.md)
   - [Editing via Record Details Page](Record-Details-Editing.md)
   - [Editing via Search Grid](Bulk-Actions-Grid-Edit.md)
-  - [Editing via Bulk Upload](Bulk-Actions-Upload.md?id=edit)
+  - [Editing via Bulk Upload](Bulk-Actions-Upload.md)
   - [Editing via Bulk Edit](Bulk-Actions-Edit.md)
   - [Adding a New Record or Package](Record-Details-Create.md)
-- Importing/Exporting/Integrating Your Data**
+- Importing/Exporting/Integrating Data
   - [Excel Data Export](Bulk-Actions-Export.md)
   - [Bulk Data Upload](Bulk-Actions-Upload.md)
   - [Integrating via FTP](Bulk-Actions-File-Transfer.md)
@@ -75,11 +75,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1Mjg3NDIzLC01MDAwNDY4ODksLTQ4Mz
-c3NDUzMiwtMTg4MTU1MzU4NSwtMTEwOTU3NDEzMCwxMDQ2NzY1
-MjU5LDE5MzExMDE5MzUsMzQxMTk4NzM4LC0xMjM2NzEyOTcxLD
-EzMDY4OTU4ODIsLTE3MTEzNzg1ODUsMTMwNjg5NTg4MiwtNTM1
-MzQyMDA0LC0xMDE1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3OD
-IzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIx
-MzMyMzk1MDJdfQ==
+eyJoaXN0b3J5IjpbODY4MDY1MTYzLDI3NTI4NzQyMywtNTAwMD
+Q2ODg5LC00ODM3NzQ1MzIsLTE4ODE1NTM1ODUsLTExMDk1NzQx
+MzAsMTA0Njc2NTI1OSwxOTMxMTAxOTM1LDM0MTE5ODczOCwtMT
+IzNjcxMjk3MSwxMzA2ODk1ODgyLC0xNzExMzc4NTg1LDEzMDY4
+OTU4ODIsLTUzNTM0MjAwNCwtMTAxNTk3ODU5MCwtNzQ2OTEzMT
+Q5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgz
+MDE3MzY0N119
 -->
