@@ -70,10 +70,12 @@
   * [Managing User Permissions](README.md)
 
 * **How Do I? (Tutorials)**
+  * [How do I recover my lost password?](README.md)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE1MjkzNzAsLTEwMTU5Nzg1OTAsLT
-c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
-NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
-g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
-MzkxNzgsMTI2NjkzOTkwMF19
+eyJoaXN0b3J5IjpbNDEwMDU2NzQ0LC0xMDE1OTc4NTkwLC03ND
+Y5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUw
+MiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4Nj
+cyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5
+MTc4LDEyNjY5Mzk5MDBdfQ==
 -->
