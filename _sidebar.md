@@ -11,12 +11,12 @@
   * [Data Views](Concepts-Data-Views.md)
   * [Application Scopes](Concepts-Application-Scopes.md)
 * **Data View Components**
-  * [Custom Fields](DataView-Custom-Fields)
-  * [Column Categories](DataView-Column-Categories)
-  * [Columns](README.md)
-  * [Filters](README.md)
-  * [Pinned Filters](README.md)
-  * [Visualizations](README.md)
+  * [Custom Fields](DataView-Custom-Fields.md)
+  * [Column Categories](DataView-Column-Categories.md)
+  * [Columns](DataView-Columns.md)
+  * [Filters](DataView-Filters.md)
+  * [Pinned Filters](DataView-Pinned-Filters.md)
+  * [Visualizations](DataView-Visualizations.md)
   * [Setting a Default Search](README.md)
 * **Application Scope Concepts**
   * [Defining a Package](README.md)
@@ -74,9 +74,9 @@
   * [How do I recover my lost password?](README.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDg0MDMxNSwtMTAxNTk3ODU5MCwtNz
-Q2OTEzMTQ5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1
-MDIsLTgzMDE3MzY0NywyMTMzMjM5NTAyLC03OTUzMzIyMjYsOD
-Y3MjEyMzQzLC0yMTQwMjUyNTQwLDE3MjU5NzkwNzYsLTY3MjIz
-OTE3OCwxMjY2OTM5OTAwXX0=
+eyJoaXN0b3J5IjpbLTE5MjQzMTMxMDIsLTEwMTU5Nzg1OTAsLT
+c0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5
+NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LD
+g2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIy
+MzkxNzgsMTI2NjkzOTkwMF19
 -->
