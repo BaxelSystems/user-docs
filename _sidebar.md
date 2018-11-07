@@ -48,8 +48,8 @@
 * **Importing/Exporting/Integrating Your Data**
   * [Excel Data Export](Bulk-Actions-Export.md)
   * [Bulk Data Upload](Bulk-Actions-Upload.md)
-  * [Integrating via FTP](README.md)
-  * [integrating via Email](README.md)
+  * [Integrating via FTP](Bulk-Actions-File-Transfer.md)
+  * [integrating via Email](Bulk-Actions-Email.md)
   * [Integrating via API](README.md)
 * **User Account/Security**
   * [Logging In to Baxel](README.md)
@@ -72,11 +72,12 @@
 
 * **How Do I? (Tutorials)**
   * [How do I recover my lost password?](README.md)
+  * How do I receive notifications 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ4ODAyOCwtNTM1MzQyMDA0LC0xMD
-E1OTc4NTkwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3
-ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3LDIxMzMyMzk1MDIsLT
-c5NTMzMjIyNiw4NjcyMTIzNDMsLTIxNDAyNTI1NDAsMTcyNTk3
-OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5MDBdfQ==
+eyJoaXN0b3J5IjpbMzk2OTA5ODg1LC01MzUzNDIwMDQsLTEwMT
+U5Nzg1OTAsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4
+MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNz
+k1MzMyMjI2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5
+MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkwMF19
 -->
