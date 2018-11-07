@@ -1,19 +1,17 @@
-![enter image description here](https://raw.githubusercontent.com/BaxelSystems/user-docs/master/img/BAXEL-logo-dark-200.png)
-
 ## Documentation
 
-* [Quick start](Quickstart.md)
-* [Help and Support](Help-Overview.md)
-* **Baxel Concepts**
-  * [How Do the Pieces Fit?](Concepts-Baxel-Pieces.md)
-  * [Entity Classes](Concepts-Entity-Classes.md)
-  * [Entity Types](Concepts-Entity-Types.md)
-  * [Data Views](Concepts-Data-Views.md)
-  * [Application Scopes](Concepts-Application-Scopes.md)
-* **Data View Components**
-  * [Custom Fields](DataView-Custom-Fields.md)
-  * [Column Categories](DataView-Column-Categories.md)
-  * [Columns](DataView-Columns.md)
+- [Quick start](Quickstart.md)
+- [Help and Support](Help-Overview.md)
+- Baxel Concepts
+  - [How Do the Pieces Fit?](Concepts-Baxel-Pieces.md)
+  - [Entity Classes](Concepts-Entity-Classes.md)
+  - [Entity Types](Concepts-Entity-Types.md)
+  - [Data Views](Concepts-Data-Views.md)
+  - [Application Scopes](Concepts-Application-Scopes.md)
+- Data View Components
+  - [Custom Fields](DataView-Custom-Fields.md)
+  - [Column Categories](DataView-Column-Categories.md)
+  - [Columns](DataView-Columns.md)
   * [Filters](DataView-Filters.md)
   * [Pinned Filters](DataView-Pinned-Filters.md)
   * [Visualizations](DataView-Visualizations.md)
@@ -70,18 +68,18 @@
   * [Managing Roles](Admin-Security-Manage-Roles.md)
   * [Managing User Access/Permissions](Admin-Security-Manage-Access.md)
 
-- How Do I? (Tutorials)**
+- How Do I? (Tutorials)
   - [How do I recover my lost password?](FAQ.md)
   - [How do I receive notifications when data changes?](FAQ.md)
   - [How do I modify the menu?](FAQ.md)
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTEwMTkzNSwzNDExOTg3MzgsLTEyMz
-Y3MTI5NzEsMTMwNjg5NTg4MiwtMTcxMTM3ODU4NSwxMzA2ODk1
-ODgyLC01MzUzNDIwMDQsLTEwMTU5Nzg1OTAsLTc0NjkxMzE0OS
-wxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAx
-NzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0My
-wtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2
-NjkzOTkwMF19
+eyJoaXN0b3J5IjpbLTEyMTk1MzE5MDcsMTkzMTEwMTkzNSwzND
+ExOTg3MzgsLTEyMzY3MTI5NzEsMTMwNjg5NTg4MiwtMTcxMTM3
+ODU4NSwxMzA2ODk1ODgyLC01MzUzNDIwMDQsLTEwMTU5Nzg1OT
+AsLTc0NjkxMzE0OSwxMjg3MDc4MjM3LDE0MTMxNTc4MCwyMTMz
+MjM5NTAyLC04MzAxNzM2NDcsMjEzMzIzOTUwMiwtNzk1MzMyMj
+I2LDg2NzIxMjM0MywtMjE0MDI1MjU0MCwxNzI1OTc5MDc2LC02
+NzIyMzkxNzhdfQ==
 -->
