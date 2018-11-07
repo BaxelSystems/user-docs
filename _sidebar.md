@@ -17,6 +17,9 @@
   * [Pinned Filters](README.md)
   * [Visualizations](README.md)
   * [Setting a Default Search](README.md)
+* **Application Scope Components**
+  * [Custom Fields](README.md)
+
 * **Searching for Data**
   * [Search Grid Basics](README.md)
   * [Filtering Your Results](README.md)
@@ -29,15 +32,16 @@
   * [Editing via Search Grid](README.md)
   * [Editing via Bulk Upload](README.md)
   * [Editing via Bulk Edit](README.md)
+  * [Adding a new Record or Package](README.md)
 
 * **Searching for Data**
   * [Search Grid Basics](README.md)
 
 * **How Do I? (Tutorials)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMTUxOTMzLC03NDY5MTMxNDksMTI4Nz
-A3ODIzNywxNDEzMTU3ODAsMjEzMzIzOTUwMiwtODMwMTczNjQ3
-LDIxMzMyMzk1MDIsLTc5NTMzMjIyNiw4NjcyMTIzNDMsLTIxND
-AyNTI1NDAsMTcyNTk3OTA3NiwtNjcyMjM5MTc4LDEyNjY5Mzk5
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTU4Mjc4NjksLTc0NjkxMzE0OSwxMjg3MD
+c4MjM3LDE0MTMxNTc4MCwyMTMzMjM5NTAyLC04MzAxNzM2NDcs
+MjEzMzIzOTUwMiwtNzk1MzMyMjI2LDg2NzIxMjM0MywtMjE0MD
+I1MjU0MCwxNzI1OTc5MDc2LC02NzIyMzkxNzgsMTI2NjkzOTkw
+MF19
 -->
