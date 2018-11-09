@@ -8,7 +8,7 @@
   - [Entity Types](Concepts-Entity-Types.md)
   - [Data Views](Concepts-Data-Views.md)
   - [Application Scopes](Concepts-Application-Scopes.md)
-  - New Option
+  - [New Option](New-Option.md)
 - Data View Components
   - [Custom Fields](DataView-Custom-Fields.md)
   - [Column Categories](DataView-Column-Categories.md)
@@ -76,7 +76,7 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk0MzYwMSw4NjgwNjUxNjMsMjc1Mj
+eyJoaXN0b3J5IjpbLTY0OTY4NjUzNyw4NjgwNjUxNjMsMjc1Mj
 g3NDIzLC01MDAwNDY4ODksLTQ4Mzc3NDUzMiwtMTg4MTU1MzU4
 NSwtMTEwOTU3NDEzMCwxMDQ2NzY1MjU5LDE5MzExMDE5MzUsMz
 QxMTk4NzM4LC0xMjM2NzEyOTcxLDEzMDY4OTU4ODIsLTE3MTEz
