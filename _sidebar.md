@@ -8,6 +8,7 @@
   - [Entity Types](Concepts-Entity-Types.md)
   - [Data Views](Concepts-Data-Views.md)
   - [Application Scopes](Concepts-Application-Scopes.md)
+  - New Option
 - Data View Components
   - [Custom Fields](DataView-Custom-Fields.md)
   - [Column Categories](DataView-Column-Categories.md)
@@ -75,11 +76,11 @@
   - [How do I create a new tool?](FAQ.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MDY1MTYzLDI3NTI4NzQyMywtNTAwMD
-Q2ODg5LC00ODM3NzQ1MzIsLTE4ODE1NTM1ODUsLTExMDk1NzQx
-MzAsMTA0Njc2NTI1OSwxOTMxMTAxOTM1LDM0MTE5ODczOCwtMT
-IzNjcxMjk3MSwxMzA2ODk1ODgyLC0xNzExMzc4NTg1LDEzMDY4
-OTU4ODIsLTUzNTM0MjAwNCwtMTAxNTk3ODU5MCwtNzQ2OTEzMT
-Q5LDEyODcwNzgyMzcsMTQxMzE1NzgwLDIxMzMyMzk1MDIsLTgz
-MDE3MzY0N119
+eyJoaXN0b3J5IjpbMTI4NTk0MzYwMSw4NjgwNjUxNjMsMjc1Mj
+g3NDIzLC01MDAwNDY4ODksLTQ4Mzc3NDUzMiwtMTg4MTU1MzU4
+NSwtMTEwOTU3NDEzMCwxMDQ2NzY1MjU5LDE5MzExMDE5MzUsMz
+QxMTk4NzM4LC0xMjM2NzEyOTcxLDEzMDY4OTU4ODIsLTE3MTEz
+Nzg1ODUsMTMwNjg5NTg4MiwtNTM1MzQyMDA0LC0xMDE1OTc4NT
+kwLC03NDY5MTMxNDksMTI4NzA3ODIzNywxNDEzMTU3ODAsMjEz
+MzIzOTUwMl19
 -->
